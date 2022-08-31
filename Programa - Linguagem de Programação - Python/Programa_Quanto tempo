@@ -1,0 +1,5 @@
+CASA = int(input())
+PRIMEIRO_EMPREGO = int(input())
+SEGUNDO_EMPREGO = int(input())
+MINUTOS = CASA + PRIMEIRO_EMPREGO + SEGUNDO_EMPREGO
+print(f'{MINUTOS} minutos')

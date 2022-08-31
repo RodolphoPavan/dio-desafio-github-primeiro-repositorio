@@ -1,0 +1,5 @@
+NUMBER = input()
+SALARY = float(input())
+VENDAS = float(input())
+CALCULO = SALARY + (VENDAS * 0.15)
+print(f'TOTAL = R$ {CALCULO:.2f}')
